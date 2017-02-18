@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="AdCountView">
+        <attr name="textColor" format="color|reference" />
+        <attr name="text" format="string|reference" />
+        <attr name="textSize" format="dimension|reference" />
+        <attr name="backgroundColor" format="color|reference" />
+        <attr name="outRingColor" format="color|reference" />
+        <attr name="duration" format="integer" />
+    </declare-styleable>
+
+</resources>
